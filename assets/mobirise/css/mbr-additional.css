@@ -673,11 +673,12 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rpRmsCyWoD H1 {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
 }
 .cid-rpRmsCyWoD H2 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-rpRmsCyWoD .mbr-text,
 .cid-rpRmsCyWoD .mbr-section-btn {
@@ -4769,7 +4770,7 @@ section.lazy-placeholder:after {
 }
 .cid-szunPfhie4 {
   padding-top: 120px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #efeeee;
 }
 .cid-szunPfhie4 .back {
